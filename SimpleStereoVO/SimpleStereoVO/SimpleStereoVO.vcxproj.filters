@@ -97,8 +97,5 @@
     <None Include="kitti.yml">
       <Filter>リソース ファイル</Filter>
     </None>
-    <None Include="default.yml">
-      <Filter>リソース ファイル</Filter>
-    </None>
   </ItemGroup>
 </Project>
