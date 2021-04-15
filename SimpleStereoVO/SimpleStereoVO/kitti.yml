@@ -1,0 +1,13 @@
+%YAML:1.0
+# data
+dataset_dir: "C:/Dataset/KITTI/data_odometry_gray/11"
+
+# camera intrinsics
+camera.fx: 707.0912
+camera.fy: 707.0912
+camera.cx: 601.8873
+camera.cy: 183.1104
+
+num_features: 150
+num_features_init: 50
+num_features_tracking: 50
